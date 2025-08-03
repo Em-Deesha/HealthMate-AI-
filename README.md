@@ -12,7 +12,7 @@ HealthMate AI is a complete health assistant solution that combines:
 ## 📁 Project Structure
 
 ```
-week_03/
+HealthMate_AI_Chatbot/
 ├── api_project/          # FastAPI Backend
 │   ├── main.py          # Main FastAPI application
 │   ├── gemini.py        # Google Gemini AI integration
@@ -26,7 +26,7 @@ week_03/
 │   ├── package.json     # Node.js dependencies
 │   └── next.config.js   # Next.js configuration
 ├── llm_api/             # LLM API examples
-├── slides/              # Presentation materials
+├── .env/              # Your Gemini api key
 ├── venv/               # Python virtual environment
 └── README.md           # This file
 ```
